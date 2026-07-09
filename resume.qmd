@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sid S.'s CV
 ---
-# Isaac Newton
+# Sid S.
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
