@@ -3,54 +3,40 @@ layout: cv
 title: Sid S.'s CV
 ---
 # Sid S.
-Physicist, Mathematician, Cambridge professor.
+CS Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
+<a href="ski25006@byui.edu">ski25006@byui.edu</a>
+<!-- | <a href="https://github.com/skinner055">Download PDF</a> -->
 | <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working on a PhD in Computer Science
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Software Development
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+C# & Python
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2025-2026`
+__BYUI__
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`NA`
+NA
 
 
 ## Publications
@@ -59,33 +45,25 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+`NA`
+NA
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`NA`
+NA
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2025`
+__Video Media Department__, Idaho
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Worked backend setting up projects
+- Worked in production assisting with projects and shoots
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2026 -->
